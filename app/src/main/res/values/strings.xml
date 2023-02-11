@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SasaKazi</string>
+    <string name="no_connection">No Internet Connection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sasakazi_merchandise_buy_sasakazi_branded_tshirt_at_an_affordable_price">Sasakazi merchandise:Buy Sasakazi branded Tshirt at an affordable price</string>
+    <string name="recepts">Receipts</string>
+    <string name="swipe_down_to_refresh">Swipe Down To Refresh</string>
+</resources>
