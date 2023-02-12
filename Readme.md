@@ -25,7 +25,14 @@ Install Sasakazi App.
 ## Links
 Android App link:https://drive.google.com/file/d/1aJjLiW3UTYUfypeWc_ITS3Re0uI1-oV4/view?usp=share_link
 ## Screenshots
-![Alt text](https://github.com/denkiri/Sasa_kazi_app/blob/main/screenshots/Screenshot_20230212-013208.png?raw=true "Optional Title")
+![Alt text](https://github.com/denkiri/Sasa_kazi_app/blob/main/screenshots/Screenshot_20230212-013208.png?raw=true "Splashscreen")
+![Alt text](https://github.com/denkiri/Sasa_kazi_app/blob/main/screenshots/Screenshot_20230212-013226.png?raw=true "Register Screen")
+![Alt text](https://github.com/denkiri/Sasa_kazi_app/blob/main/screenshots/Screenshot_20230212-013218.png?raw=true "Login Screen")
+![Alt text](https://github.com/denkiri/Sasa_kazi_app/blob/main/screenshots/Screenshot_20230212-013158.png?raw=true "Dashboard Screen")
+
+
+
+
 
 ## Contributing
 denniskirimi.dk@gmail.com.
